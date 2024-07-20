@@ -30,9 +30,9 @@ If any of these are already installed on your system, please make sure they are 
 Rivatuner, or RTSS, is a commonly used frametiming software.  It basically does the same thing as Vsync, but is effective across the whole system.  Other applications in this guide require the software for full functionality, and it requires minimal setup!</br></br>
 
 Simply [download](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) and install the software, reboot once it has finished installing.</br>
-Once you are back online, open RTSS and in the main window select `Start with Windows` to switch it `ON`.  In the `Framerate Limit` box, click and type `60`, then hit `Enter`.</br>
-Your RTSS should be set up and can be safely **minimized** to the background.</br></br>
-![image](https://media.discordapp.net/attachments/1069768559699431525/1264099651997667389/image.png?ex=669ca40a&is=669b528a&hm=bf8c8268f2ffeebad247c9e5ccf559b85cda9d12afee89b6cfd78b977e740857&=&format=webp&quality=lossless)
+Once you are back online, open RTSS and in the main window select `Start with Windows` to switch it `ON`.  In the `Framerate Limit` box, click and type `60`, then hit `Enter`.</br></br>
+![image](https://media.discordapp.net/attachments/1069768559699431525/1264099651997667389/image.png?ex=669ca40a&is=669b528a&hm=bf8c8268f2ffeebad247c9e5ccf559b85cda9d12afee89b6cfd78b977e740857&=&format=webp&quality=lossless)</br></br>
+Your RTSS should be set up and can be safely **minimized** to the background.
 
 
 ### Motion Assistant
@@ -51,7 +51,7 @@ Ensure `Start with windows` is **UN-checked** to prevent Motion Assistant from i
 Your Motion Assistant should be set up!  Close Motion Assistant and make sure it is not minimized or running in your Task Tray.</br></br>
 
 Note:</br>
-If your `FPS Limit` text is greyed out, install [**RTSS**](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) as mentioned previously.  Be sure you have **rebooted** after the installing Motion Assistant.</br></br>
+If your `FPS Limit` text is greyed out, install [**RTSS**](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) as mentioned previously.  Be sure you have **rebooted** after the installing Motion Assistant.
 
 ### AutoTDP
 
@@ -65,7 +65,7 @@ From the TDP Menu do the following key combinations on your Win4: </br>
 `S -> I -> E` to prevent Windows from giving all your power to the CPU instead of GPU.  Make sure the `Cycle Power Scheme Currently` value is set to `Power Saver-EPP` by pressing the `F` key as needed.  Press `Q` to return to the main menu.</br>
 `Y -> 7` to open the AC/DC power menu.  Press `1`, `2`, and `3` as needed so each value is set to `Max Performance`, then press `A` to save settings.</br></br>
 
-Once you are back to the main menu, press `Q` to exit without selecting a TDP.  All settings will persist through reboots and are effective even if TDP is not running.  AutoTDP is now configured on your Win4!</br></br>
+Once you are back to the main menu, press `Q` to exit without selecting a TDP.  All settings will persist through reboots and are effective even if TDP is not running.  AutoTDP is now configured on your Win4!
 
 ### Handheld Companion
 
@@ -94,7 +94,7 @@ Now the right back key triggers Lossless Scaling to fullscreen the running app, 
 
 In `Settings` at the bottom, be sure to switch `On` the `Auto-start application`, `Open application in background` and `Close minimizes`.  Scroll to the bottom of the `Settings` page and switch `Off` the `RivaTuner Statistics Server` toggle.</br></br>
 
-Handheld Companion is now configured!  It can be safely minimized (if you set up custom hotkeys as shown, use the `L1 + R1 + R3` combo!)</br></br>
+Handheld Companion is now configured!  It can be safely minimized (if you set up custom hotkeys as shown, use the `L1 + R1 + R3` combo!)
 
 ### Winaero Tweaker
 
