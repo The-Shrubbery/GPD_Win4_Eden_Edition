@@ -32,7 +32,7 @@ Rivatuner, or RTSS, is a commonly used frametiming software.  It basically does 
 Simply [download](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/) and install the software, reboot once it has finished installing.</br>
 Once you are back online, open RTSS and in the main window select `Start with Windows` to switch it `ON`.  In the `Framerate Limit` box, click and type `60`, then hit `Enter`.</br>
 Your RTSS should be set up and can be safely **minimized** to the background.</br></br>
-![image](https://static.wikia.nocookie.net/onexplayer/images/f/f3/Rtss.png/revision/latest/scale-to-width-down/1200?cb=20220109212504)
+![image](https://media.discordapp.net/attachments/1069768559699431525/1264099651997667389/image.png?ex=669ca40a&is=669b528a&hm=bf8c8268f2ffeebad247c9e5ccf559b85cda9d12afee89b6cfd78b977e740857&=&format=webp&quality=lossless)
 
 
 ### Motion Assistant
