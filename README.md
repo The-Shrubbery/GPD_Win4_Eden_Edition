@@ -85,7 +85,12 @@ I have set up custom hotkeys which I find intuitive, so here is a few screens of
 ![image](https://media.discordapp.net/attachments/1069768559699431525/1264002390655504454/image.png?ex=669c4975&is=669af7f5&hm=b4c9d61c580443713683cbb63426cc1a3a46742a735c245dbcecd1cdb7af3ecc&=&format=webp&quality=lossless&width=932&height=524)</br>
 ![image](https://media.discordapp.net/attachments/1069768559699431525/1264002481629823086/image.png?ex=669c498b&is=669af80b&hm=9d9914c3083c88d8ca1bcfbea5409b8c02e817d5753eb86461fce406795f0fca&=&format=webp&quality=lossless&width=932&height=524)</br>
 ![image](https://media.discordapp.net/attachments/1069768559699431525/1264002582217490522/image.png?ex=669c49a3&is=669af823&hm=e96e75d3a501d2ffee3e329c2993294dddc07e9fdfc04caed49f2b9662747672&=&format=webp&quality=lossless&width=932&height=524)</br>
-![image](https://media.discordapp.net/attachments/1069768559699431525/1264002734869319710/image.png?ex=669c49c8&is=669af848&hm=c6db1a680323d6e6673899ae1150c6cb8608395d5d27aee750d6f6bbf8c1465e&=&format=webp&quality=lossless&width=932&height=524)</br></br>
+![image](https://media.discordapp.net/attachments/1069768559699431525/1264002734869319710/image.png?ex=669c49c8&is=669af848&hm=c6db1a680323d6e6673899ae1150c6cb8608395d5d27aee750d6f6bbf8c1465e&=&format=webp&quality=lossless&width=932&height=524)</br>
+
+Further, in WinControls I set my back keys as follows:</br>
+![image](https://media.discordapp.net/attachments/1069768559699431525/1264041630978146386/image.png?ex=669c6e01&is=669b1c81&hm=a1fdfeede0300fbb1ec49199ad743383f08aea2fcfe1ac8be145f69d1353defd&=&format=webp&quality=lossless&width=893&height=502)</br>
+
+Now the right back key triggers Lossless Scaling to fullscreen the running app, and the left back key is Task View for easy app switching.</br></br>
 
 In `Settings` at the bottom, be sure to switch `On` the `Auto-start application`, `Open application in background` and `Close minimizes`.  Scroll to the bottom of the `Settings` page and switch `Off` the `RivaTuner Statistics Server` toggle.</br></br>
 
