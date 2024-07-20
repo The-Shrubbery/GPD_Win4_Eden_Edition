@@ -57,7 +57,7 @@ If your `FPS Limit` text is greyed out, install [**RTSS**](https://www.guru3d.co
 
 Ciphray's AutoTDP.bat file is a custom made utility that does some obscure magic that makes Windows perform twice as well.  Cannot thank you enough, Ciphray.</br>
 Thankfully, installing is extremely easy: extract the .zip file to a folder of your choice (I have a folder in My Documents called TDP) and run `TDP_UV_MENU_FAST.bat`.</br>
-![image](https://media.discordapp.net/attachments/1069768559699431525/1264031170170196078/image.png?ex=669c6443&is=669b12c3&hm=d1d30e9c168ce3173639915cd46dede97d0312340b0729188522a7c3d6510d2a&=&format=webp&quality=lossless&width=932&height=524)
+![image](https://media.discordapp.net/attachments/1069768559699431525/1264031170170196078/image.png?ex=669c6443&is=669b12c3&hm=d1d30e9c168ce3173639915cd46dede97d0312340b0729188522a7c3d6510d2a&=&format=webp&quality=lossless&width=932&height=524)</br>
 If your settings look different than the screenshot, do not mind it at all.  In the next section we will configure all that.  Check back after finishing the guide and see your changes reflected in the TDP Menu!</br></br>
 
 From the TDP Menu do the following key combinations on your Win4: </br>
