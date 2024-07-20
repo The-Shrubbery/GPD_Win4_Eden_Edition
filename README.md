@@ -73,7 +73,7 @@ Handheld Companion controls system performance, emulated controllers, and perfor
 Firstly after installing the software and rebooting, open Handheld Companion and make sure your emulated controller is behaving correctly and not showing multiple inputs.</br>
 Next, go in to the `Device` tab and enable the `Controllable power (cTDP) override`.  Set the values to `5` for min and `35` for max.</br>
 The `Performance` tab has all the action.  Here are a pair of screenshots of the performance tab, configure your system to follow these settings:
-![image](https://github.com/user-attachments/assets/a67d0d72-b1b3-4f4b-9986-9a1b4e9e2e08)</br>
+![image](https://media.discordapp.net/attachments/1069768559699431525/1264036202550530069/handheldcompanion.png?ex=669c68f3&is=669b1773&hm=8552f794dde2bb8075820cab47d763dfa9e2183997e233ca918710a7f3a595c6&=&format=webp&quality=lossless&width=932&height=524)</br>
 Your TDP should adjust by itself thanks to AutoTDP, however if you are getting low CPU/GPU usage try to toggle the `Automatic TDP` setting to `60fps`.</br>
 ![image](https://media.discordapp.net/attachments/950574522011119707/1263947378784993404/image.png?ex=669c163a&is=669ac4ba&hm=c0f96ac5852adb88d678fd16d650a34d88d5a633366e0c69287c5c22deef5d17&=&format=webp&quality=lossless&width=932&height=524)</br></br>
 
