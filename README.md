@@ -75,7 +75,9 @@ Next, go in to the `Device` tab and enable the `Controllable power (cTDP) overri
 The `Performance` tab has all the action.  Here are a pair of screenshots of the performance tab, configure your system to follow these settings:
 ![image](https://media.discordapp.net/attachments/1069768559699431525/1264036202550530069/handheldcompanion.png?ex=669c68f3&is=669b1773&hm=8552f794dde2bb8075820cab47d763dfa9e2183997e233ca918710a7f3a595c6&=&format=webp&quality=lossless&width=932&height=524)</br>
 Your TDP should adjust by itself thanks to AutoTDP, however if you are getting low CPU/GPU usage try to toggle the `Automatic TDP` setting to `60fps`.</br>
-![image](https://media.discordapp.net/attachments/950574522011119707/1263947378784993404/image.png?ex=669c163a&is=669ac4ba&hm=c0f96ac5852adb88d678fd16d650a34d88d5a633366e0c69287c5c22deef5d17&=&format=webp&quality=lossless&width=932&height=524)</br></br>
+![image](https://media.discordapp.net/attachments/950574522011119707/1263947378784993404/image.png?ex=669c163a&is=669ac4ba&hm=c0f96ac5852adb88d678fd16d650a34d88d5a633366e0c69287c5c22deef5d17&=&format=webp&quality=lossless&width=932&height=524)</br>
+This fan curve works well for me at minimizing noise while keeping temps low-ish.  Never gone above 90C with this config, though the average is a much cooler 80C. 
+ I do use [these grips](https://www.shapeways.com/product/WJ632EHE7/gpd-win-4-grips) which mitigate heat quite a lot, so adjust these curves to your comfort.</br></br>
 
 The `Profiles` tab is completely up to you.</br>
 `Overlay` I have set to `Full`, with the `Time` parameter set to `Off`.</br>
