@@ -1,4 +1,4 @@
-# GPD Win4 Eden Edition
+# GPD Win4 - Eden Edition
 Improve FPS, temps, and battery life on your GPD Win4!
 
 ## Setup Guide for GPD Win4, updated in July 2024
