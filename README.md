@@ -170,5 +170,5 @@ For Windows apps, I use [Revo Uninstaller](https://download.revouninstaller.com/
 ### Conlcusion
 
 That covers all the tweaks and settings which I have configured on my Win4!</br></br>
-Contact me on Discord in the [GPD Devices server](https://discord.com/invite/gpd-devices-243411108940087297). </br>
+Contact me on Discord in the [GPD Devices server](https://discord.com/invite/gpd-devices-243411108940087297) @`The Shrubbery`. </br>
 I have [CashApp](https://cash.app/$twerkules) if you like this and want more Win4 content and guides.</br>
